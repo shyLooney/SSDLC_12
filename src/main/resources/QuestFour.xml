@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><company>
+    <name>IT-Heaven</name>
+    <employees>
+        <employee age="27" name="Maksim" profession="Middle Software Developer"/>
+        <employee age="22" name="Ivan" profession="Junior Software Developer"/>
+        <employee age="23" name="Franklin" profession="Junior Software Developer"/>
+        <employee age="30" name="Herald" profession="Middle Software Developer"/>
+        <employee age="25" name="Adam" profession="Middle Software Developer"/>
+        <employee age="20" name="Leroy" profession="Junior Software Developer"/>
+    </employees>
+<employees><employee age="123" name="123" profession="123"/></employees><employees><employee age="122" name="Sema" profession="Junior"/></employees></company>
